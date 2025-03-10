@@ -29,6 +29,8 @@ Windows でのみ動作 | Works only on Windows
 Linux（GitHub Codespaces）では動きません | Does not work on Linux (GitHub Codespaces)
 Acrobat は不要！でも Microsoft Office は必要！ | No need for Acrobat, but Microsoft Office is required!
 
+exe化して使ってね！！
+
 📝 ライセンス | License
 このツールは 無料 & オープンソース です！🎉
 This tool is free & open source!
