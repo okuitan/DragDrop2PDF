@@ -1,4 +1,3 @@
-# DragDrop2PDF
 # DragDrop2PDF 🚀  
 **Excel & Word をドラッグ＆ドロップするだけで PDF に変換！**  
 _Convert Excel & Word files to PDF by drag & drop!_
